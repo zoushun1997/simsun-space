@@ -1,0 +1,81 @@
+SplineFontDB: 3.2
+FontName: simsun-space
+FullName: Space Character for SimSun
+FamilyName: simsun-space
+Weight: Regular
+Copyright: 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -28
+UnderlineWidth: 12
+Ascent: 220
+Descent: 36
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+HasVMetrics: 1
+XUID: [1021 386 -1502972273 27512]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1724142393
+ModificationTime: 1724146573
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 36
+VLineGap: 0
+OS2TypoAscent: 220
+OS2TypoAOffset: 0
+OS2TypoDescent: -36
+OS2TypoDOffset: 0
+OS2TypoLinegap: 36
+OS2WinAscent: 220
+OS2WinAOffset: 0
+OS2WinDescent: 36
+OS2WinDOffset: 0
+HheadAscent: 220
+HheadAOffset: 0
+HheadDescent: -36
+HheadDOffset: 0
+OS2SubXSize: 128
+OS2SubYSize: 128
+OS2SubXOff: 0
+OS2SubYOff: 16
+OS2SupXSize: 128
+OS2SupYSize: 128
+OS2SupXOff: 0
+OS2SupYOff: 128
+OS2StrikeYSize: 12
+OS2StrikeYPos: 65
+OS2CapHeight: 175
+OS2XHeight: 116
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000000.00000000
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 38 12
+OnlyBitmaps: 1
+BeginPrivate: 0
+EndPrivate
+TeXData: 3 0 0 524288 262144 174762 475136 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 256 1
+
+StartChar: space
+Encoding: 32 32 0
+Width: 128
+Flags: W
+LayerCount: 2
+EndChar
+EndChars
+EndSplineFont
